@@ -62,6 +62,10 @@ We welcome contributions! If you have training materials, scenarios, or other re
 
 This repository is licensed under the [CREATIVE COMMONS ATTRIBUTION-NON-COMMERCIAL-NODERIVS (CC BY-NC-ND)] license - see the below for brief explanation. 
 
+*When incorporating any content from this source, kindly ensure proper attribution by including the following citations at the beginning of the materials:*
+1. Repository: https://github.com/beardedeldo/SAC#training-programs
+2. Global Special Activities Center (SAC) Milsim Training Program: https://discord.gg/neXcdGx7
+
 <details>
   <summary><strong>CC BY-NC-ND</strong></summary>
 
