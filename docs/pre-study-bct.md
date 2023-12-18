@@ -1,4 +1,4 @@
-# License
+## License
 
 This repository is licensed under the [CREATIVE COMMONS ATTRIBUTION-NON-COMMERCIAL-NODERIVS (CC BY-NC-ND)] license - see the below for brief explanation. 
 
@@ -22,28 +22,13 @@ NoDerivatives — If you remix, transform, or build upon the material, you may n
 
 
 -- 
-# Standard Operating Procedure (SOP) - Basic Combat Training (BCT)
-
-## Overview
-
-> **Trainers:** Ensure comprehension before advancing. Share SOPs with recruits for pre-BCT study.
-
-### Game Master
-
-> Set up the following stations near the main base with adequate spacing for jogging from location to location. 
-
-1. Shooting Range.
-2. Sandbag covers with down-range targets.
-3. Four bunkers at 12, 9, 6, and 3 o'clock positions.
-4. One bunker with 4 sandbag covers, 20-40m south.
+# Standard Operating Procedure (SOP) - Pre-Basic Combat Training (BCT) for Recruits 
 
 # BCT 1: Communication and Formations
 
 ## Objective 1.0
 
 Understand and utilize proper communication.
-
-> Cover concepts, practice proximity and radio frequency communication, confirm understanding at main base (away from spawn).
 
 ## Communication Procedures and Formations
 
@@ -93,16 +78,7 @@ Understand and utilize proper formations.
 - **Benefits:** Penetration, focused firepower.
 - **Use cases:** Breaking enemy lines, attacking, surprise attacks.
 
-> **Trainers:** Confirm understanding and proceed to jogging to the shooting range for practical exercises.
-
-1. Form teams, assign roles.
-2. Trainer as Team Lead, call formations.
-3. Use radio terminology during the jog.
-4. Test knowledge with sudden stops and orders.
-
 # BCT 2: Weapon Discipline, Smokes, Grenades, Flash Bangs
-
-> **Trainers:** Demonstrate concepts at the shooting range.
 
 ## Objective 2.0
 
@@ -121,8 +97,6 @@ Learn weapon handling and usage.
 
 - **Target:** "Box" on wooden targets.
 - **Steps:** Controlled shots, wait for target to stand.
-
-> **Trainers:** Test understanding, then proceed to next area with sandbags and targets.
 
 ## Objective 2.1
 
@@ -151,11 +125,8 @@ Learn grenade handling.
 4. Announce type loudly.
 5. Release, take cover.
 
-> **Trainers:** Confirm understanding, then proceed to the next section for react-to-contact and clock test.
 
 # BCT 3: Clock System and React to Contact
-
-> **Trainers:** Conduct exercises at the four bunkers location.
 
 ## Objective 3.0
 
@@ -177,15 +148,12 @@ React effectively to contact, apply CTA and SAL.
 
 - **Use:** On-screen compass for directional and coordinate communication.
 
-> **Trainers:** Conduct live fire exercise, grading recruits based on BCT knowledge.
 
 # BCT 4 (Final Exam): Buddy Bounding and Close Quarter Combat (CQC)
 
 ## Objective 4.0
 
 - Learn how to work as a team, move from cover to cover, and tactically clear enemies. 
-> **Trainers:** This is a live fire excercise and you need to observe how well recruits have learned the previous concepts.  
-
 
 ### Buddy Bounding
 
@@ -198,9 +166,6 @@ React effectively to contact, apply CTA and SAL.
 - "One man moving."
 - "One man set."
 
-> **Trainers:** allow recruits to use smoke grenades (optional). 
-
-> **Trainers:** confirm Buddy Bounding concepts are well understood and then proceed to last location. 
 
 ### Close Quarter Combat Introduction: Breach, Clear, Exfil
 
@@ -208,9 +173,3 @@ React effectively to contact, apply CTA and SAL.
 - **Breach:** Gain entry into the target structure.
 - **Clear:** Navigate through the structure, ensuring no enemy combatants remain.
 - **Exfil:** Move to the structure exit, exit while forming a security perimeter. Use appropriate method to call for exfil (ping command, provide SITREP and CASREP, request exfil). 
-
-**Example:**
-- Make sure teams line up and confirm ready before breaching. "Team ready to breach? Four ready. Three ready. Two ready. Team ready to breach. One man breaching."
-
-> **Trainers:** This phase integrates teamwork, movement, and tactical clearing. Emphasize effective communication and coordinated actions. Ensure recruits understand and can execute these concepts in simulated scenarios.
-
