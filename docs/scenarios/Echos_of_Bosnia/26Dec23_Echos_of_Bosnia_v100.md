@@ -25,7 +25,7 @@
     * **FIA-UN:** Mediating humanitarian corridors, observing cease-fire violations, and providing limited civilian protection.
 * **Objectives:**
     * RUS-SB: Eliminate key defensive positions and suppress civilian morale.
-    * US-BC Muslim Defense: Eliminate enemy snipers, protect assigned civilian zone, and gather intelligence.
+    * US-BC Defense: Eliminate enemy snipers, protect assigned civilian zone, and gather intelligence.
     * FIA-UN: Negotiate safe passage for civilians, document war crimes, and attempt to de-escalate tensions.
 * **Special Event:** Rooftop sniper duels using specialized equipment, with civilians forced to navigate perilous escape routes.
 * **Behind Enemy Lines Twist:** A downed pilot crash-lands within the city, requiring players to navigate urban dangers, coordinate rescue efforts, and potentially negotiate with various factions.
