@@ -1,4 +1,5 @@
-# 4-Day Campaign: Echoes of Bosnia (Inspired by "Behind Enemy Lines")
+# 4-Day Campaign: Echoes of Bosnia
+## Inspired by "Behind Enemy Lines"
 
 **Overall Theme:** Players engage in fictionalized scenarios inspired by key events of the Bosnian War, representing different ideological or strategic alliances rather than strictly ethnic identities.
 
@@ -57,7 +58,7 @@
 
 
 
-## A few resources that provide historical context for the Bosnian War:
+### A few resources that provide historical context for the Bosnian War:
 
 **1. United States Holocaust Memorial Museum: https://www.ushmm.org/genocide-prevention/countries/bosnia-herzegovina**
 > This website offers a comprehensive overview of the Bosnian War, including its origins, key events, and aftermath. It also features resources on the Srebrenica massacre and other atrocities.
