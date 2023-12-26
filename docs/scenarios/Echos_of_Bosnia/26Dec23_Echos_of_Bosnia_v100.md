@@ -69,8 +69,8 @@
 **3. BBC History: https://www.bbc.com/news/world-europe-17212376**
 > This BBC website features articles and documentaries on the Bosnian War, offering insights into the personal experiences of those who lived through it.
 
-**4. The International Center for Transitional Justice: https://www.ictj.org/
-**
+**4. The International Center for Transitional Justice: https://www.ictj.org/**
+
 > This organization provides resources on transitional justice issues in Bosnia and Herzegovina, including war crimes prosecutions and reconciliation efforts.
 
 **5. The Bosnian War Documentary Collection: https://m.youtube.com/watch?v=6GgubPwiWNg**
