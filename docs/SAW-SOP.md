@@ -20,7 +20,7 @@ NoDerivatives — If you remix, transform, or build upon the material, you may n
 ------
 </details>
 
-# Standard Operating Procedure (SOP) - Semi Automatic Weapon (SAW) Training for Shadow Division 
+# Standard Operating Procedure (SOP) - Squad Automatic Weapon (SAW) Training for Shadow Division 
 
 ## Overview
 
