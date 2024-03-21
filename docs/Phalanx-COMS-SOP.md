@@ -78,7 +78,7 @@ Teach participants effective team communication methods and direction awareness 
 
 - **Objective:** Navigate through an urban environment while maintaining formation and communication.
 - **Challenges:** Obstacles, potential threats, and changing terrain conditions.
-- **Emphasis:** Use direction callouts and maintain the Sparta Phalanx formation throughout the patrol.
+- **Emphasis:** Use direction callouts and maintain the called formation throughout the patrol.
 
 ### 2. Reconnaissance Mission
 
