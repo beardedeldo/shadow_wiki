@@ -20,11 +20,7 @@ NoDerivatives — If you remix, transform, or build upon the material, you may n
 ------
 </details>
 
-Certainly! Here's a detailed SOP for team communication, direction callouts, and scenarios emphasizing the importance of sticking together and understanding the location of each team member:
-
----
-
-# Standard Operating Procedure (SOP) - Team Communication and Direction Awareness Training
+# Standard Operating Procedure (SOP) - Team Communication and Direction Awareness Training - Shadow Division
 
 ## Overview
 
