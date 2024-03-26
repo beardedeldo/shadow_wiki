@@ -28,6 +28,7 @@ b. **Tasks to Maneuver Units:**
 a. **Logistics:**
    - ART will provide re-insertion and supply to help reinforce FOB.
    - ART supplies will incoude ammunition and medical. 
+
 b. **Medical:**
    - Recommend having dedicated medical support teams.
 
