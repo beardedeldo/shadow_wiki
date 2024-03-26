@@ -40,7 +40,7 @@ a. **Command:**
 b. **Signal:**
    - Frequencies: 
      - Command: **50.0**
-     - CAS: **40.5**
+     - Close Air Support (CAS): **49.0**
      - Lucky Irish: **41.5**
      - Shadows: **42.5**
 ### 6. COORDINATING INSTRUCTIONS:
