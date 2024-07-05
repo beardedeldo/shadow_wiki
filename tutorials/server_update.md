@@ -1,5 +1,6 @@
 ## Run in following order ## 
-```bash
+
+```sh
 steamcmd
 force_install_dir ../armar_ds
 login anonymous
