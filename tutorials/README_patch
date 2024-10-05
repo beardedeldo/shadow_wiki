@@ -1,0 +1,37 @@
+## REDLINE PATCH DIRECTIONS
+
+
+1. Open `patch.blend` to add your desired 3-character combination (letters/numbers) to the patch.
+
+2. Select the *front*, *back*, *border*, and the letters/numbers (no need to join them). Export everything as an `.fbx` file.
+
+3. Open *Handplane*:
+   - Import your high-poly patch `.fbx` as the high-poly mesh.
+   - Import `patch_low.fbx` as the low-poly mesh.
+
+4. Go to *Output*, select a destination folder (create a new folder for each patch for organization).
+
+5. Set the following options:
+   - **Filename**: *output*
+   - **Format**: *PNG 8*
+   - **Padding**: *16*
+   - Check the boxes for **Tangent Space Normal**, **Ambient Occlusion**, and **Vertex Color**.
+
+6. Click *Bake*.
+
+7. After baking, copy `output.m` and `output.r` into the same folder as your baked images. 
+
+8. Ensure the folder contains the following files, with exact naming:
+   - `output.png`
+   - `output.m`
+   - `output.r`
+
+9. Copy `convert.exe` into this folder and double-click it to run the conversion.
+
+10. This should create output_BCR.png, and output_NMO.png in the same folder, these are the textures you can drag into workbench to create the material there. 
+
+
+P.S. You can edit the output_color.png file in an image editor to change the colors to your preference (it currently uses a black/white mask). For example, replace black with yellow and white with blue, or any colors you want. Just be sure to save it as an 8-bit-per-channel PNG file, maintaining the same dimensions.
+
+I'm using fxb files, because obj supports vertex colors, but I don't think blender exports them correctly, but it does in fxb
+hence the switch to fxb files.
